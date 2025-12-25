@@ -1,4 +1,3 @@
-```markdown
 # 🧠 Natural Language Processing (NLP) Learning Journey
 
 Welcome to my **NLP learning repository**!  
@@ -59,16 +58,15 @@ This repo documents my hands-on journey through **Natural Language Processing**,
 
 ## 📂 Repository Structure
 
-```
-
-├── notebooks/        # Jupyter notebooks with experiments
-├── scripts/          # Python scripts
-├── datasets/         # Sample datasets (or links)
-├── notes/            # Theory, explanations, and summaries
-├── projects/         # Mini NLP projects
+├── notebooks/ # Jupyter notebooks with experiments
+├── scripts/ # Python scripts
+├── datasets/ # Sample datasets (or links)
+├── notes/ # Theory, explanations, and summaries
+├── projects/ # Mini NLP projects
 └── README.md
 
-````
+yaml
+Copy code
 
 ---
 
@@ -77,39 +75,27 @@ This repo documents my hands-on journey through **Natural Language Processing**,
 1. Clone the repository  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-````
+Install required dependencies
 
-2. Install required dependencies
+bash
+Copy code
+pip install -r requirements.txt
+Explore notebooks or scripts by topic
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Explore notebooks or scripts by topic
+📈 Progress & Updates
+This repository is actively updated as I continue learning and experimenting with NLP concepts. Expect improvements, refactors, and new additions over time.
 
----
-
-## 📈 Progress & Updates
-
-This repository is **actively updated** as I continue learning and experimenting with NLP concepts. Expect improvements, refactors, and new additions over time.
-
----
-
-## 🤝 Contributions
-
+🤝 Contributions
 Suggestions, improvements, and discussions are always welcome!
 Feel free to open an issue or submit a pull request.
 
----
+📄 License
+This project is licensed under the MIT License — feel free to use and learn from it.
 
-## 📄 License
+✨ Learning NLP is a journey—this repo is my map.
 
-This project is licensed under the **MIT License** — feel free to use and learn from it.
-
----
-
-✨ *Learning NLP is a journey—this repo is my map.*
-
-```
+yaml
+Copy code
 
 ---
 
@@ -119,4 +105,6 @@ If you want, I can:
 - Customize it for a **specific NLP focus** (LLMs, research, production, etc.)
 
 Just say the word 👍
-```
+
+
+
